@@ -1,0 +1,33 @@
+*{
+     margin: 0%;
+     padding: 0%;
+     box-sizing: border-box;
+}
+h1{
+     text-align: center;
+     font-size: normal;
+}
+h2{
+     text-align: center;
+     font-size: small;
+}
+.sec2{
+     text-align:left;
+     font-size:x-large;
+     font-style: italic;
+}
+.tribute blockquote{
+     text-align: center;
+     font-style: oblique;
+}
+img{
+     display: block;
+     padding: 20px 20%;
+     max-width: 100%;
+     border-radius: 30% 30% 30%;
+}
+p{
+     text-align: center;
+     font-style:italic;
+}
+
